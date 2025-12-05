@@ -1,0 +1,15 @@
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/bin/Debug/net8.0/hello-world
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/bin/Debug/net8.0/hello-world.deps.json
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/bin/Debug/net8.0/hello-world.runtimeconfig.json
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/bin/Debug/net8.0/hello-world.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/bin/Debug/net8.0/hello-world.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/obj/Debug/net8.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfoInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfo.cs
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/obj/Debug/net8.0/hello-world.csproj.CoreCompileInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/obj/Debug/net8.0/hello-world.sourcelink.json
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/obj/Debug/net8.0/hello-world.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/obj/Debug/net8.0/refint/hello-world.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/obj/Debug/net8.0/hello-world.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/obj/Debug/net8.0/hello-world.genruntimeconfig.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/1-fundamentos-dotnet/praticas/hello-world/obj/Debug/net8.0/ref/hello-world.dll
