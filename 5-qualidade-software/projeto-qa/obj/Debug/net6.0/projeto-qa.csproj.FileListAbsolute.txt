@@ -1,0 +1,6 @@
+/workspaces/bootcamp-wex-end-to-end-engineering/5-qualidade-software/projeto-qa/obj/Debug/net6.0/projeto-qa.csproj.AssemblyReference.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/5-qualidade-software/projeto-qa/obj/Debug/net6.0/projeto-qa.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/bootcamp-wex-end-to-end-engineering/5-qualidade-software/projeto-qa/obj/Debug/net6.0/projeto-qa.AssemblyInfoInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/5-qualidade-software/projeto-qa/obj/Debug/net6.0/projeto-qa.AssemblyInfo.cs
+/workspaces/bootcamp-wex-end-to-end-engineering/5-qualidade-software/projeto-qa/obj/Debug/net6.0/projeto-qa.csproj.CoreCompileInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/5-qualidade-software/projeto-qa/obj/Debug/net6.0/projeto-qa.sourcelink.json
