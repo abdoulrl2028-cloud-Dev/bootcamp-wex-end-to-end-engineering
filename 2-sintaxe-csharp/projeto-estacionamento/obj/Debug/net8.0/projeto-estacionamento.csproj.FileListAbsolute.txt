@@ -1,0 +1,15 @@
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/bin/Debug/net8.0/projeto-estacionamento
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/bin/Debug/net8.0/projeto-estacionamento.deps.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/bin/Debug/net8.0/projeto-estacionamento.runtimeconfig.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/bin/Debug/net8.0/projeto-estacionamento.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/bin/Debug/net8.0/projeto-estacionamento.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/obj/Debug/net8.0/projeto-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/obj/Debug/net8.0/projeto-estacionamento.AssemblyInfoInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/obj/Debug/net8.0/projeto-estacionamento.AssemblyInfo.cs
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/obj/Debug/net8.0/projeto-estacionamento.csproj.CoreCompileInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/obj/Debug/net8.0/projeto-estacionamento.sourcelink.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/obj/Debug/net8.0/projeto-estacionamento.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/obj/Debug/net8.0/refint/projeto-estacionamento.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/obj/Debug/net8.0/projeto-estacionamento.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/obj/Debug/net8.0/projeto-estacionamento.genruntimeconfig.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/projeto-estacionamento/obj/Debug/net8.0/ref/projeto-estacionamento.dll

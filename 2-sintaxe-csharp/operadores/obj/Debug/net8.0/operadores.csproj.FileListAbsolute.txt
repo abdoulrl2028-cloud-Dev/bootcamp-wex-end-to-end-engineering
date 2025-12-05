@@ -1,0 +1,15 @@
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/bin/Debug/net8.0/operadores
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/bin/Debug/net8.0/operadores.deps.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/bin/Debug/net8.0/operadores.runtimeconfig.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/bin/Debug/net8.0/operadores.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/bin/Debug/net8.0/operadores.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/obj/Debug/net8.0/operadores.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/obj/Debug/net8.0/operadores.AssemblyInfoInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/obj/Debug/net8.0/operadores.AssemblyInfo.cs
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/obj/Debug/net8.0/operadores.csproj.CoreCompileInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/obj/Debug/net8.0/operadores.sourcelink.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/obj/Debug/net8.0/operadores.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/obj/Debug/net8.0/refint/operadores.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/obj/Debug/net8.0/operadores.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/obj/Debug/net8.0/operadores.genruntimeconfig.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/operadores/obj/Debug/net8.0/ref/operadores.dll

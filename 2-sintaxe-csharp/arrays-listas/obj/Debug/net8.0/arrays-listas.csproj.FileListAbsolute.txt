@@ -1,0 +1,15 @@
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/bin/Debug/net8.0/arrays-listas
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/bin/Debug/net8.0/arrays-listas.deps.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/bin/Debug/net8.0/arrays-listas.runtimeconfig.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/bin/Debug/net8.0/arrays-listas.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/bin/Debug/net8.0/arrays-listas.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/obj/Debug/net8.0/arrays-listas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/obj/Debug/net8.0/arrays-listas.AssemblyInfoInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/obj/Debug/net8.0/arrays-listas.AssemblyInfo.cs
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/obj/Debug/net8.0/arrays-listas.csproj.CoreCompileInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/obj/Debug/net8.0/arrays-listas.sourcelink.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/obj/Debug/net8.0/arrays-listas.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/obj/Debug/net8.0/refint/arrays-listas.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/obj/Debug/net8.0/arrays-listas.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/obj/Debug/net8.0/arrays-listas.genruntimeconfig.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/arrays-listas/obj/Debug/net8.0/ref/arrays-listas.dll

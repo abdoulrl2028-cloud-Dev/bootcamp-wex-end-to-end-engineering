@@ -1,0 +1,15 @@
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/bin/Debug/net8.0/estruturas-repeticao
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/bin/Debug/net8.0/estruturas-repeticao.deps.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/bin/Debug/net8.0/estruturas-repeticao.runtimeconfig.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/bin/Debug/net8.0/estruturas-repeticao.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/bin/Debug/net8.0/estruturas-repeticao.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/obj/Debug/net8.0/estruturas-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/obj/Debug/net8.0/estruturas-repeticao.AssemblyInfoInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/obj/Debug/net8.0/estruturas-repeticao.AssemblyInfo.cs
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/obj/Debug/net8.0/estruturas-repeticao.csproj.CoreCompileInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/obj/Debug/net8.0/estruturas-repeticao.sourcelink.json
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/obj/Debug/net8.0/estruturas-repeticao.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/obj/Debug/net8.0/refint/estruturas-repeticao.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/obj/Debug/net8.0/estruturas-repeticao.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/obj/Debug/net8.0/estruturas-repeticao.genruntimeconfig.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/2-sintaxe-csharp/estruturas-repeticao/obj/Debug/net8.0/ref/estruturas-repeticao.dll
