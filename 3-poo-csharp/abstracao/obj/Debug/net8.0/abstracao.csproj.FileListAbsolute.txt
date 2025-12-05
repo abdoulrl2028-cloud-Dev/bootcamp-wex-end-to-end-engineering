@@ -1,0 +1,15 @@
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/bin/Debug/net8.0/abstracao
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/bin/Debug/net8.0/abstracao.deps.json
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/bin/Debug/net8.0/abstracao.runtimeconfig.json
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/bin/Debug/net8.0/abstracao.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/bin/Debug/net8.0/abstracao.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/obj/Debug/net8.0/abstracao.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/obj/Debug/net8.0/abstracao.AssemblyInfoInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/obj/Debug/net8.0/abstracao.AssemblyInfo.cs
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/obj/Debug/net8.0/abstracao.csproj.CoreCompileInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/obj/Debug/net8.0/abstracao.sourcelink.json
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/obj/Debug/net8.0/abstracao.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/obj/Debug/net8.0/refint/abstracao.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/obj/Debug/net8.0/abstracao.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/obj/Debug/net8.0/abstracao.genruntimeconfig.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/abstracao/obj/Debug/net8.0/ref/abstracao.dll

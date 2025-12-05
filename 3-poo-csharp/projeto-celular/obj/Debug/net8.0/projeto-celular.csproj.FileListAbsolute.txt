@@ -1,0 +1,15 @@
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/bin/Debug/net8.0/projeto-celular
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/bin/Debug/net8.0/projeto-celular.deps.json
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/bin/Debug/net8.0/projeto-celular.runtimeconfig.json
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/bin/Debug/net8.0/projeto-celular.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/bin/Debug/net8.0/projeto-celular.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/obj/Debug/net8.0/projeto-celular.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/obj/Debug/net8.0/projeto-celular.AssemblyInfoInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/obj/Debug/net8.0/projeto-celular.AssemblyInfo.cs
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/obj/Debug/net8.0/projeto-celular.csproj.CoreCompileInputs.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/obj/Debug/net8.0/projeto-celular.sourcelink.json
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/obj/Debug/net8.0/projeto-celular.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/obj/Debug/net8.0/refint/projeto-celular.dll
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/obj/Debug/net8.0/projeto-celular.pdb
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/obj/Debug/net8.0/projeto-celular.genruntimeconfig.cache
+/workspaces/bootcamp-wex-end-to-end-engineering/3-poo-csharp/projeto-celular/obj/Debug/net8.0/ref/projeto-celular.dll
