@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  app1:
+    image: nginx:alpine
+    networks:
+      - minha-rede
+  app2:
+    image: httpd:alpine
+    networks:
+      - minha-rede
+networks:
+  minha-rede:
+    driver: bridge
