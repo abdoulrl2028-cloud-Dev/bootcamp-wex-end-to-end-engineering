@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/bootcamp.jpg" alt="Bootcamp WEX" width="100%">
+</p>
+
 # Bootcamp WEX - End to End Engineering
 
 Este repositório contém materiais para o módulo "Fundamentos .NET".
