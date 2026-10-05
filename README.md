@@ -1,38 +1,33 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/bootcamp.jpg" alt="Bootcamp WEX" width="100%">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/bootcamp.jpg" alt="WEX bootcamp" width="100%">
 </p>
 
-# Bootcamp WEX - End to End Engineering
+# WEX Bootcamp — End-to-End Engineering
 
-Este repositório contém materiais para o módulo "Fundamentos .NET".
+Study notes and projects from the WEX End-to-End Engineering bootcamp (DIO). Modules cover C#, .NET, object-oriented programming, SQL Server, Docker, Kubernetes, and AWS.
 
-Estrutura:
+## Layout
 
 - `1-fundamentos-dotnet/`
-  - `anotacoes/` - notas curtas sobre conceitos e comandos.
-  - `praticas/` - exemplos pequenos e exercícios em C# (projetos console).
-  - `projeto-portfolio/` - exemplo de aplicação ASP.NET Core (minimal API) para um portfolio.
+  - `anotacoes/` — short notes on concepts and commands
+  - `praticas/` — small C# console exercises
+  - `projeto-portfolio/` — a small ASP.NET Core minimal API for a portfolio
 
-Como usar:
+## How to run
 
-1. Instale o .NET SDK (versão 8.0 ou compatível): https://dotnet.microsoft.com
-2. Para cada projeto navegue até a pasta e execute `dotnet run`.
-
-Exemplo:
+1. Install the .NET SDK 8.0 or a compatible version: https://dotnet.microsoft.com
+2. Open a project folder and run `dotnet run`.
 
 ```bash
 cd 1-fundamentos-dotnet/praticas/hello-world
 dotnet run
 ```
 
-Se quiser executar a API do portfolio:
+Portfolio API:
 
 ```bash
 cd 1-fundamentos-dotnet/projeto-portfolio
 dotnet run
-# depois abrir http://localhost:5041/portfolio
 ```
-# bootcamp-wex-end-to-end-engineering
-Repositório principal de estudos e projetos do Bootcamp WEX - End to End Engineering (DIO). Conteúdo organizado por módulos, incluindo C#, .NET, POO, SQL Server, Docker, Kubernetes e AWS.<br>meu novo projetos disso 
-![alt text](image.png)
-<br>my learning now ![alt text](image-1.png)
+
+Then open http://localhost:5041/portfolio on the machine where the API is running.
